@@ -1,6 +1,3 @@
-# 💫 About Me:
-### Hi, I'm Jwenson 👋
-
 💻 Junior Full-Stack Developer with 3+ years of hands-on experience building and maintaining web applications.  
 🚀 Passionate about creating efficient, scalable, and reliable solutions across both front-end and back-end.  
 🤝 Experienced in collaborating with teams and continuously improving development workflows.  
