@@ -3,11 +3,6 @@
 🤝 Experienced in collaborating with teams and continuously improving development workflows.  
 🌱 Always learning new technologies and exploring innovative ideas, especially in Web3 and automation.  
 
----
-
-# 💻 Tech Stack:
-
-### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -23,18 +18,12 @@
 ![React Query](https://img.shields.io/badge/react%20query-tanstack-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
----
-
-### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.NET Core](https://img.shields.io/badge/.net%20core%20api-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/asp.net%20mvc-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
----
-
-### 🗄️ Database & Data
 ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=database&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -42,9 +31,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
 
----
-
-### 🔗 API & Architecture
 ![REST API](https://img.shields.io/badge/rest%20api-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MVC](https://img.shields.io/badge/mvc%20architecture-FF6F00?style=for-the-badge)
 ![WebSockets](https://img.shields.io/badge/websockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -52,9 +38,6 @@
 ![Session](https://img.shields.io/badge/session%20management-607D8B?style=for-the-badge)
 ![API Dev](https://img.shields.io/badge/api%20development-009688?style=for-the-badge)
 
----
-
-### 🔗 Web3 & Blockchain
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
@@ -69,9 +52,6 @@
 ![Liquidity](https://img.shields.io/badge/liquidity%20tracking-FFC107?style=for-the-badge)
 ![DeFi Bots](https://img.shields.io/badge/defi%20bot%20development-F44336?style=for-the-badge)
 
----
-
-### ⚡ Tools, DevOps & Automation
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
@@ -90,9 +70,6 @@
 ![Error Handling](https://img.shields.io/badge/error%20handling-F44336?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/performance%20monitoring-00BCD4?style=for-the-badge)
 
----
-
-### 🤖 AI Tools
 ![ChatGPT](https://img.shields.io/badge/chatgpt-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge)
@@ -103,8 +80,4 @@
 ![AI Review](https://img.shields.io/badge/ai%20code%20review-673AB7?style=for-the-badge)
 ![AI Debugging](https://img.shields.io/badge/ai%20debugging-009688?style=for-the-badge)
 
----
-
-### 🧩 Other
 ![Luau](https://img.shields.io/badge/luau-00A2FF?style=for-the-badge)
-
