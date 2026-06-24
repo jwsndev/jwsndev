@@ -1,4 +1,4 @@
-Hi i'm jwenson a Junior Full-Stack Developer with 3+ years of hands-on experience building and maintaining web applications,
+Hi i'm jwenson a Junior Full-Stack Developer with 4+ years of hands-on experience building and maintaining web applications,
 Passionate about learning new technologies, improving development workflows, and contributing to innovative projects.
 
 ### Frontend
