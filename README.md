@@ -3,7 +3,7 @@
 I'm a **Full-Stack Web Developer** passionate about building web applications and exploring blockchain technologies.
 
 I have 4+ years of hands-on development experience building personal, freelance, and company projects.
-My experience includes developing full-stack web applications and Web3 integrations.
+My experience includes developing full-stack web applications and bots.
 
 I'm always looking to improve my skills, write cleaner code, and build software that solves real problems.
 
