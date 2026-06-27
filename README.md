@@ -7,7 +7,7 @@ My experience includes developing full-stack web applications and bots.
 
 I'm always looking to improve my skills, write cleaner code, and build software that solves real problems.
 
-This is my new GitHub account after my previous account was suspended, so I'm rebuilding my portfolio from scratch.
+This is my new GitHub account after my previous account was suspended.
 
 # Tech Stack
 
